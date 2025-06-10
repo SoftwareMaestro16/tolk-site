@@ -47,11 +47,11 @@ export function Example() {
   {'\n'}    <span className="text-blue-400">var</span> <span className="text-cyan-300">senderAddress</span>: <span className="text-sky-400">slice</span> = <span className="text-blue-400">cs</span>.<span className="text-cyan-300">loadAddress<span className="text-sky-400">()</span></span>;
   {'\n'}    <span className="text-blue-400">var</span> <span className="text-cyan-300">op</span>: <span className="text-sky-400">int</span> = <span className="text-blue-400">inMsgBody</span>.<span className="text-cyan-300">loadUint<span className="text-sky-400">(</span>32<span className="text-sky-400">)</span></span>;
   {'\n'}    
-  {'\n'}    <span className="text-blue-400">if</span> (<span className="text-cyan-300">op</span> == <span className="text-yellow-300">0x1337</span>) {'{'}
+  {'\n'}    <span className="text-blue-400">if</span> (<span className="text-cyan-300">op</span> == <span className="text-sky-300">0x1337</span>) {'{'}
   {'\n'}        <span className="text-blue-400">return</span>;
   {'\n'}    {'}'} 
   {'\n'}
-  {'\n'}    <span className="text-blue-400">throw</span>(<span className="text-yellow-300">0xfffff</span>);
+  {'\n'}    <span className="text-blue-400">throw</span>(<span className="text-sky-300">0xfffff</span>);
   {'\n'}{'}'}
 </pre>
               </div>
