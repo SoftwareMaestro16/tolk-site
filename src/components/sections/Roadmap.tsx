@@ -1,4 +1,3 @@
-import { Code, Globe, Layers, Terminal } from "lucide-react";
 import { tolkVersions } from "../../utils/versions";
 
 export function Roadmap() {
