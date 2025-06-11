@@ -3,7 +3,7 @@ import { CheckCircle2 } from "lucide-react";
 export function Example() {
 
     return (
-        <section id="examples" className="py-24">
+        <section id="examples" className="py-16 sm:py-24">
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-8">
