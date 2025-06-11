@@ -10,8 +10,8 @@ export function Hero() {
       </div>
       <div className="relative max-w-6xl mx-auto px-6 text-center">
         <div className="mb-12">
-          <h1 className="text-7xl md:text-9xl font-bold mb-8 bg-gradient-to-r from-blue-400 to-cyan-500 bg-clip-text text-transparent">
-            Tolk
+          <h1 className="text-5xl sm:text-7xl md:text-9xl font-bold mb-8 bg-gradient-to-r from-blue-400 to-cyan-500 bg-clip-text text-transparent">
+            Tolk Language
           </h1>
           <p className="text-2xl md:text-4xl text-gray-300 mb-16 max-w-4xl mx-auto leading-relaxed">
             The next Generation of Smart Contract Development.
@@ -19,7 +19,7 @@ export function Hero() {
         </div>
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-          <button className="group bg-gradient-to-r from-blue-500 to-sky-500 hover:bg-blue-700 px-10 py-5 rounded-2xl font-bold text-xl transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/25 flex items-center gap-3">
+          <button className="group bg-gradient-to-r from-blue-500 to-sky-500 hover:bg-blue-700 px-6 sm:px-10 py-5 rounded-2xl font-bold text-xl transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/25 flex items-center gap-3">
             <a
               href="https://docs.ton.org/v3/documentation/smart-contracts/tolk/overview"
               target="_blank"
@@ -34,7 +34,7 @@ export function Hero() {
               />
             </a>
           </button>
-          <button className="group border-2 bg-white border-gray-800 hover:border-sky-500 px-10 py-5 rounded-2xl font-bold text-xl transition-all duration-300 hover:bg-cyan-400/20 flex items-center gap-3 text-black">
+          <button className="group border-2 bg-white border-gray-800 hover:border-sky-500 px-6 sm:px-10 py-5 rounded-2xl font-bold text-xl transition-all duration-300 hover:bg-cyan-400/20 flex items-center gap-3 text-black">
             <a
               href="https://github.com/ton-blockchain/ton/tree/master/tolk"
               target="_blank"
