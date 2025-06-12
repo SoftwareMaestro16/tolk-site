@@ -5,7 +5,7 @@ export function Features() {
     return (
         <section id="features" className="py-16 sm:py-24 bg-gray-900/30">
         <div className="max-w-6xl mx-auto px-6">
-          <h2 className="leading-normal text-6xl font-bold text-center mb-20 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
+          <h2 className="leading-normal text-5xl sm:text-6xl font-bold text-center mb-20 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
             Why Tolk?
           </h2>
           

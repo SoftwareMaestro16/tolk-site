@@ -19,7 +19,7 @@ export function Hero() {
         </div>
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-          <button className="group bg-gradient-to-r from-blue-500 to-sky-500 hover:bg-blue-700 px-6 sm:px-10 py-5 rounded-2xl font-bold text-xl transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/25 flex items-center gap-3">
+          <button className="group bg-gradient-to-r from-blue-500 to-sky-500 hover:bg-blue-700 px-6 sm:px-10 py-4 sm:py-5 rounded-2xl font-bold text-xl transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/25 flex items-center gap-3">
             <a
               href="https://docs.ton.org/v3/documentation/smart-contracts/tolk/overview"
               target="_blank"
@@ -34,7 +34,7 @@ export function Hero() {
               />
             </a>
           </button>
-          <button className="group border-2 bg-white border-gray-800 hover:border-sky-500 px-6 sm:px-10 py-5 rounded-2xl font-bold text-xl transition-all duration-300 hover:bg-cyan-400/20 flex items-center gap-3 text-black">
+          <button className="group border-2 bg-white border-gray-800 hover:border-sky-500 px-5 sm:px-10 py-5 rounded-2xl font-bold text-xl transition-all duration-300 hover:bg-cyan-400/20 flex items-center gap-3 text-black">
             <a
               href="https://github.com/ton-blockchain/ton/tree/master/tolk"
               target="_blank"

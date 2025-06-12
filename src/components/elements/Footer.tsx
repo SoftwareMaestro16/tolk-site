@@ -14,7 +14,7 @@ export function Footer() {
                 </h3>
             </div>
 
-              <p className="text-gray-400 text-lg font-medium text-left ">The next Generation of Smart Contract Development.</p>
+              <p className="text-gray-400 text-lg font-medium text-left ">The Next Generation of Smart Contract Development.</p>
             </div>
             
             <div className="flex gap-4">
