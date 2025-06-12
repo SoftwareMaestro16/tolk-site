@@ -34,7 +34,7 @@ export function Hero() {
               />
             </a>
           </button>
-          <button className="group border-2 bg-white border-gray-800 hover:border-sky-500 px-5 sm:px-10 py-5 rounded-2xl font-bold text-xl transition-all duration-300 hover:bg-cyan-400/20 flex items-center gap-3 text-black">
+          <button className="group border-2 bg-white border-gray-800 hover:border-sky-500 px-5 sm:px-10 py-4 sm:py-5 rounded-2xl font-bold text-xl transition-all duration-300 hover:bg-cyan-400/20 flex items-center gap-3 text-black">
             <a
               href="https://github.com/ton-blockchain/ton/tree/master/tolk"
               target="_blank"
