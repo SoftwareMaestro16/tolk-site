@@ -7,7 +7,7 @@ export function Example() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-8">
-              <h2 className="text-5xl font-bold bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">
+              <h2 className="text-5xl leading-14 font-bold bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">
                 Write Smart Contracts Like TypeScript
               </h2>
               <p className="text-xl text-gray-300 leading-relaxed">
@@ -51,7 +51,7 @@ export function Example() {
   {'\n'}        <span className="text-blue-400">return</span>;
   {'\n'}    {'}'} 
   {'\n'}
-  {'\n'}    <span className="text-blue-400">throw</span>(<span className="text-sky-300">0xfffff</span>);
+  {'\n'}    <span className="text-blue-400">throw</span> <span className="text-sky-300">0xfffff</span>;
   {'\n'}{'}'}
 </pre>
               </div>

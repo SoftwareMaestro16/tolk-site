@@ -1,5 +1,15 @@
 export const tolkVersions = [
     {
+        version: "v0.99",
+        changes: [
+          "High-level createMessage(...) for building and sending messages",
+          "Supports stateInit, extra currencies, sharding, and workchains",
+          "Automatic inlining or referencing of message bodies",
+          "Union-based fields for flexible but type-safe API",
+          "createExternalLogMessage for efficient logging",
+        ],
+    },
+    {
       version: "v0.13",
       changes: [
         "Auto-packing to/from cells/builders/slices",

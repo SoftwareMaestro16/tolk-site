@@ -10,11 +10,11 @@ export function Hero() {
       </div>
       <div className="relative max-w-6xl mx-auto px-6 text-center">
         <div className="mb-12">
-          <h1 className="text-5xl sm:text-7xl md:text-9xl font-bold mb-8 bg-gradient-to-r from-blue-400 to-cyan-500 bg-clip-text text-transparent">
+          <h1 className="text-5xl sm:text-7xl md:text-9xl font-bold bg-gradient-to-r from-blue-400 to-cyan-500 bg-clip-text text-transparent leading-normal">
             Tolk Language
           </h1>
           <p className="text-2xl md:text-4xl text-gray-300 mb-16 max-w-4xl mx-auto leading-relaxed">
-            The next Generation of Smart Contract Development.
+            The Next Generation of Smart Contract Development.
           </p>
         </div>
 

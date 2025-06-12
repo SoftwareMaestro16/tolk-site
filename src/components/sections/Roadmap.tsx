@@ -5,7 +5,7 @@ export function Roadmap() {
     return (
         <section id="roadmap" className="py-16 sm:py-24">
         <div className="max-w-6xl mx-auto px-6">
-          <h2 className="text-5xl font-bold text-center mb-20 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
+          <h2 className="text-5xl leading-normal font-bold text-center mb-20 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
             Tolk Roadmap
           </h2>
        
