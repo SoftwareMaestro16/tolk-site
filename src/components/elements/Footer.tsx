@@ -35,7 +35,7 @@ export function Footer() {
           
           <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col sm:flex-row sm:justify-between text-gray-500">
             <p>&copy; 2025 Tolk. Building the Future of TON Development.</p>
-            <a href="https://t.me/SoftwareMaestro" target="_blank" className="mt-1 sm:mt-0">
+            <a href="https://t.me/SoftwareMaestro" target="_blank" className="mt-3 sm:mt-0">
                 <p>@SoftwareMaestro</p>
             </a> 
           </div>
